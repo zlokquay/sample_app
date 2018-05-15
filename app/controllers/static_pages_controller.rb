@@ -1,3 +1,5 @@
+#defines pages for rails
+
 class StaticPagesController < ApplicationController
   def home
   end

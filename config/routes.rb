@@ -1,3 +1,5 @@
+#creates the webpages at the url below.
+
 Rails.application.routes.draw do
   root 'static_pages#home'
   get 'static_pages/home'
